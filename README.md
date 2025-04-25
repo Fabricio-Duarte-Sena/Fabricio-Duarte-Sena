@@ -4,7 +4,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- Atualmente cursando Desenvolvedor Web Full-stack pela Growdev.
+- Entusiasta de programação.
 - Atuo na como suporte na área da segurança eletrônica.
 - Meus hobbies são tocar instrumentos, escutar música, jogar e assistir filmes.
 
